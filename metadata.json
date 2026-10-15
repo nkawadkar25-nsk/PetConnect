@@ -1,0 +1,6 @@
+{
+  "name": "Pet Connect",
+  "description": "Smart pet health records, vaccination schedules, meal reminders, and real-time collar telemetry with AI behavioral analysis and tail movement mood detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
